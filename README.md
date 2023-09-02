@@ -1,2 +1,4 @@
 # odin-recipes
-Recipe HTML test
+Recipe HTML test.
+
+An HTML recipe website
